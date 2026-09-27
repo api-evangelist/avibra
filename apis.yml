@@ -1,7 +1,6 @@
 aid: avibra
 name: Avibra
-description: 'Avibra is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+description: 'Avibra is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling. The company’s public presence is limited, with minimal publicly available information beyond its listing on equityzen.com. No dedicated corporate website appears to be operational, and attempts to access avibra.com result in a JavaScript shell without substantive content. Consequently, detailed product or service descriptions are unavailable at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/avibra/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
@@ -12,6 +11,10 @@ created: '2026-09-26'
 modified: '2026-09-26'
 tags:
 - Company
+- Technology
+- Platform
+- API
+- Data
 apis: []
 maintainers:
 - FN: Kin Lane
